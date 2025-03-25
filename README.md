@@ -9,7 +9,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/
 - Read more about my [Blog](https://yeminxi.github.io)
 - Talk with me by [E-mail](mailto:ymxykx@qq.com)
 
-<br>[<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeminxi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />](https://camo.githubusercontent.com/f5ad325ed0ad48e43ad72c9a077f50aec32b1525aaaaa4da81f6ce2121dd19c2/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d79656d696e78692673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7261646963616c266c696e655f6865696768743d30)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeminxi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeminxi&layout=compact"/>
 
 <br>
