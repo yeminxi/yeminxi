@@ -14,6 +14,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/
 
 <br>
 
-![微信公众号](htps://github.com/user-attachments/assets/c9bf9bc9-f1e1-4d93-a10f-087e1c0e4198)
+![image](https://github.com/user-attachments/assets/d845d3df-4023-4bc1-9293-c20df437ec8b)
+
 
 
