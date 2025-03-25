@@ -13,5 +13,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeminxi&layout=compact"/>
 
 <br>
-<img src="https://images.418121.xyz/file/1731770514913_gzh.webp">
+
+![微信公众号](htps://github.com/user-attachments/assets/c9bf9bc9-f1e1-4d93-a10f-087e1c0e4198)
+
 
