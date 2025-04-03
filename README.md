@@ -9,7 +9,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/
 - Read more about my [Blog](https://yeminxi.github.io)
 - Talk with me by [E-mail](mailto:ymxykx@qq.com)
 
-<br><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeminxi&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><img src="https://github-readme-streak-stats-rho-lime.vercel.app?user=yeminxi&theme=dark&border_radius=12&locale=zh_Hans&card_width=755" alt="GitHub Streak" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeminxi&layout=compact"/>
 
 <br>
