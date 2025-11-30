@@ -1,4 +1,4 @@
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/count.svg)](https://418121.xyz/) visitor, Thank You!🎉🎉
+Welcome, You are my <img src="https://count.getloli.com/@yeminxi?theme=minecraft" alt="yeminxi" />visitor, Thank You!🎉🎉
 # Hi I Am 叶泯希 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yeminxi&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues&include_all_commits=true&count_private=true&hide_title=true&locale=cn" />
@@ -7,7 +7,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/yeminxi/
 
 - My home page [Index](https://418121.xyz/)
 - Read more about my [Blog](https://yeminxi.github.io/)
-- Talk with me by [E-mail](mailto:ymxykx@qq.com)
+- Talk with me by [E-mail](mailto:ymx@418121.xyz)
 
 ### 🔥 My contribution
 
